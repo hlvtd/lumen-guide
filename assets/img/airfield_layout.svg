@@ -158,9 +158,9 @@
   <rect x="20" y="836" width="1560" height="412" rx="14" fill="#0F1217" stroke="#2C323C"/>
   <g transform="translate(44,874)">
     <circle cx="0" cy="-6" r="13" class="badge"/><text x="0" y="-1" text-anchor="middle" class="n">1</text>
-    <text x="24" y="0" class="t">진입등 (흰색 5등 바렛)</text><text x="24" y="24" class="s">활주로 왼쪽 바깥, 가운데 줄을 따라 4~6칸마다. 비행기 오는 쪽에 서서 활주로를 보고 놓기.</text>
+    <text x="24" y="0" class="t">진입등 (흰색 5등 바렛)</text><text x="24" y="24" class="s">활주로 왼쪽 바깥, 가운데 줄을 따라 8~10칸마다(촘촘하면 너무 번쩍여요). 비행기 오는 쪽에 서서 활주로를 보고 놓기.</text>
     <circle cx="0" cy="58" r="13" class="badge"/><text x="0" y="63" text-anchor="middle" class="n">2</text>
-    <text x="24" y="64" class="t">순차 섬광등</text><text x="24" y="88" class="s">진입등 사이사이 같은 줄에(8칸 이내 간격). 모두 같은 방향으로 놓으면 빛이 활주로 쪽으로 달려가요.</text>
+    <text x="24" y="64" class="t">순차 섬광등</text><text x="24" y="88" class="s">바깥쪽 진입등 몇 개의 바로 앞 칸에 하나씩(16칸 이내 간격). 같은 방향으로 놓으면 빛이 활주로 쪽으로 달려가요.</text>
     <circle cx="0" cy="122" r="13" class="badge"/><text x="0" y="127" text-anchor="middle" class="n">3</text>
     <text x="24" y="128" class="t">시단/종단등 (초록/빨강) — 활주로 시작선</text><text x="24" y="152" class="s">활주로 왼쪽 끝을 가로질러 한 줄. 왼쪽 바깥에 서서 놓으면 비행기 쪽은 초록, 활주로 쪽은 빨강.</text>
     <circle cx="0" cy="186" r="13" class="badge"/><text x="0" y="191" text-anchor="middle" class="n">4</text>
