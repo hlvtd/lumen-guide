@@ -216,7 +216,7 @@
   <circle cx="165" cy="1463" r="9" class="r" filter="url(#glow)"/>
   <rect x="192" y="1448" width="34" height="30" rx="5" fill="#E8B10A"/>
   <circle cx="209" cy="1463" r="9" class="r" filter="url(#glow)"/>
-  <text x="250" y="1469" fill="#7CF0A8" font-size="18" font-weight="700">딱 좋음 (3°)</text>
+  <text x="250" y="1469" fill="#7CF0A8" font-size="18" font-weight="700">딱 좋음 (약 6°)</text>
   <text x="400" y="1469" class="s">흰색 2 + 빨강 2 → 그대로 내려오기</text>
   <rect x="60" y="1494" width="34" height="30" rx="5" fill="#E8B10A"/>
   <circle cx="77" cy="1509" r="9" class="w" filter="url(#glow)"/>
